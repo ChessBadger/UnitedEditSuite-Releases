@@ -1,8 +1,8 @@
 {
-    "versionCode":  34,
-    "versionName":  "0.6.28",
-    "apkUrl":  "https://api.github.com/repos/ChessBadger/UnitedEditSuite-Releases/contents/UESMobile-Latest.apk?ref=main\u0026version=34",
-    "sha256":  "8560f7869a42371c1e1f883c50e97c576c7c822467a7f6f9fe77bc6c97dc133c",
+    "versionCode":  36,
+    "versionName":  "0.6.30",
+    "apkUrl":  "https://api.github.com/repos/ChessBadger/UnitedEditSuite-Releases/contents/UESMobile-Latest.apk?ref=main\u0026version=36",
+    "sha256":  "ec270b13aa17d0249458da4546124b03f08492429b21cef5cb2f253db7ff880d",
     "releaseNotes":  "UES Mobile improvements and fixes.",
-    "publishedAt":  "2026-09-03T16:55:35.9412594+00:00"
+    "publishedAt":  "2026-09-09T22:53:08.5044699+00:00"
 }
