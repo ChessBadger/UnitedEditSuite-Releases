@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.4.0",
-    "apkUrl":  "https://api.github.com/repos/ChessBadger/UnitedEditSuite-Releases/contents/Varasto-13-a5957769274f4cf472bcbdc287593e6581370acbf710cb07139bb52d31d36679.apk?ref=main\u0026version=13",
-    "sha256":  "a5957769274f4cf472bcbdc287593e6581370acbf710cb07139bb52d31d36679",
+    "versionCode":  14,
+    "versionName":  "1.4.1",
+    "apkUrl":  "https://api.github.com/repos/ChessBadger/UnitedEditSuite-Releases/contents/Varasto-14-8260fb79426b9ff9886735055f217275d31c1aaaf66abde9542b836ebd001cda.apk?ref=main\u0026version=14",
+    "sha256":  "8260fb79426b9ff9886735055f217275d31c1aaaf66abde9542b836ebd001cda",
     "releaseNotes":  "Varasto improvements and fixes.",
-    "publishedAt":  "2026-11-14T01:02:01.9436167+00:00"
+    "publishedAt":  "2026-11-14T16:08:06.5881429+00:00"
 }
